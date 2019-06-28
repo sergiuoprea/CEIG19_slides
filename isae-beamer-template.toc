@@ -1,7 +1,7 @@
-\babel@toc {french}{}
 \beamer@sectionintoc {1}{Introduction}{3}{0}{1}
 \beamer@sectionintoc {2}{Motivation}{5}{0}{2}
 \beamer@sectionintoc {3}{Grasping System}{6}{0}{3}
-\beamer@sectionintoc {4}{Performance analysis}{11}{0}{4}
-\beamer@sectionintoc {5}{Results}{15}{0}{5}
-\beamer@sectionintoc {6}{In Summary}{18}{0}{6}
+\beamer@sectionintoc {4}{Performance analysis}{10}{0}{4}
+\beamer@sectionintoc {5}{Applications}{20}{0}{5}
+\beamer@sectionintoc {6}{Limitations and future works}{21}{0}{6}
+\beamer@sectionintoc {7}{Conclusions}{22}{0}{7}

@@ -1,0 +1,20 @@
+\begin{thebibliography}{xxxx}
+
+\bibitem[Çalli~2017]{Calli2017}
+Berk Çalli, Arjun Singh, James Bruce, Aaron Walsman, Kurt Konolige,
+  Siddhartha~S. Srinivasa, Pieter Abbeel et Aaron~M. Dollar.
+\newblock {\em Yale-CMU-Berkeley dataset for robotic manipulation research}.
+\newblock I. J. Robotics Res., vol.~36, pages 261--268, 2017.
+
+\bibitem[Feix~2016]{feix2016grasp}
+Thomas Feix, Javier Romero, Heinz-Bodo Schmiedmayer, Aaron~M Dollar et Danica
+  Kragic.
+\newblock {\em The grasp taxonomy of human grasp types}.
+\newblock IEEE Transactions on Human-Machine Systems, vol.~46, no.~1, pages
+  66--77, 2016.
+
+\bibitem[ocu~]{oculusGrab}
+{\em Distance Grab Sample Now Available in Oculus Unity Sample Framework},
+  Septembre.
+
+\end{thebibliography}
