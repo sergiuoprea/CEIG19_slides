@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7050 64-bit) (preloaded format=pdflatex 2019.6.25)  28 JUN 2019 03:57
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7050 64-bit) (preloaded format=pdflatex 2019.6.25)  28 JUN 2019 12:08
 entering extended mode
 **./isae-beamer-template.tex
 (isae-beamer-template.tex
@@ -1508,7 +1508,7 @@ Package pdftex.def Info: images/ceig.png  used on input line 320.
 ]
 File: images/ceig.png Graphic file (type png)
 <use images/ceig.png>
-Package pdftex.def Info: images/ceig.png  used on input line 343.
+Package pdftex.def Info: images/ceig.png  used on input line 345.
 (pdftex.def)             Requested size: 89.0353pt x 22.76228pt.
  [10
 
@@ -1516,114 +1516,114 @@ Package pdftex.def Info: images/ceig.png  used on input line 343.
 <../Figures/0.png, id=146, 613.54219pt x 361.35pt>
 File: ../Figures/0.png Graphic file (type png)
 <use ../Figures/0.png>
-Package pdftex.def Info: ../Figures/0.png  used on input line 462.
+Package pdftex.def Info: ../Figures/0.png  used on input line 464.
 (pdftex.def)             Requested size: 44.50005pt x 52.65585pt.
 <../Figures/1.png, id=148, 613.54219pt x 361.35pt>
 File: ../Figures/1.png Graphic file (type png)
 <use ../Figures/1.png>
-Package pdftex.def Info: ../Figures/1.png  used on input line 462.
+Package pdftex.def Info: ../Figures/1.png  used on input line 464.
 (pdftex.def)             Requested size: 44.50005pt x 52.20401pt.
 <../Figures/2.png, id=150, 613.54219pt x 361.35pt>
 File: ../Figures/2.png Graphic file (type png)
 <use ../Figures/2.png>
-Package pdftex.def Info: ../Figures/2.png  used on input line 462.
+Package pdftex.def Info: ../Figures/2.png  used on input line 464.
 (pdftex.def)             Requested size: 44.50005pt x 51.47012pt.
 <../Figures/3.png, id=152, 613.54219pt x 361.35pt>
 File: ../Figures/3.png Graphic file (type png)
 <use ../Figures/3.png>
-Package pdftex.def Info: ../Figures/3.png  used on input line 462.
+Package pdftex.def Info: ../Figures/3.png  used on input line 464.
 (pdftex.def)             Requested size: 44.50005pt x 51.01636pt.
 <../Figures/4.png, id=154, 613.54219pt x 361.35pt>
 File: ../Figures/4.png Graphic file (type png)
 <use ../Figures/4.png>
-Package pdftex.def Info: ../Figures/4.png  used on input line 462.
+Package pdftex.def Info: ../Figures/4.png  used on input line 464.
 (pdftex.def)             Requested size: 44.50005pt x 49.59015pt.
 <../Figures/5.png, id=156, 613.54219pt x 361.35pt>
 File: ../Figures/5.png Graphic file (type png)
 <use ../Figures/5.png>
-Package pdftex.def Info: ../Figures/5.png  used on input line 462.
+Package pdftex.def Info: ../Figures/5.png  used on input line 464.
 (pdftex.def)             Requested size: 44.50005pt x 49.59015pt.
 <../Figures/7.png, id=158, 613.54219pt x 361.35pt>
 File: ../Figures/7.png Graphic file (type png)
 <use ../Figures/7.png>
-Package pdftex.def Info: ../Figures/7.png  used on input line 462.
+Package pdftex.def Info: ../Figures/7.png  used on input line 464.
 (pdftex.def)             Requested size: 44.50005pt x 50.09239pt.
 <../Figures/8.png, id=160, 613.54219pt x 361.35pt>
 File: ../Figures/8.png Graphic file (type png)
 <use ../Figures/8.png>
-Package pdftex.def Info: ../Figures/8.png  used on input line 462.
+Package pdftex.def Info: ../Figures/8.png  used on input line 464.
 (pdftex.def)             Requested size: 44.50005pt x 45.59094pt.
 <../Figures/9.png, id=162, 613.54219pt x 361.35pt>
 File: ../Figures/9.png Graphic file (type png)
 <use ../Figures/9.png>
-Package pdftex.def Info: ../Figures/9.png  used on input line 462.
+Package pdftex.def Info: ../Figures/9.png  used on input line 464.
 (pdftex.def)             Requested size: 44.50005pt x 45.42427pt.
 <../Figures/10.png, id=164, 613.54219pt x 361.35pt>
 File: ../Figures/10.png Graphic file (type png)
 <use ../Figures/10.png>
-Package pdftex.def Info: ../Figures/10.png  used on input line 462.
+Package pdftex.def Info: ../Figures/10.png  used on input line 464.
 (pdftex.def)             Requested size: 44.50005pt x 45.83012pt.
 <../Figures/11.png, id=166, 613.54219pt x 361.35pt>
 File: ../Figures/11.png Graphic file (type png)
 <use ../Figures/11.png>
-Package pdftex.def Info: ../Figures/11.png  used on input line 462.
+Package pdftex.def Info: ../Figures/11.png  used on input line 464.
 (pdftex.def)             Requested size: 44.50005pt x 45.69832pt.
 <../Figures/12.png, id=168, 613.54219pt x 361.35pt>
 File: ../Figures/12.png Graphic file (type png)
 <use ../Figures/12.png>
-Package pdftex.def Info: ../Figures/12.png  used on input line 462.
+Package pdftex.def Info: ../Figures/12.png  used on input line 464.
 (pdftex.def)             Requested size: 44.50005pt x 45.83012pt.
 <../Figures/13.png, id=170, 613.54219pt x 361.35pt>
 File: ../Figures/13.png Graphic file (type png)
 <use ../Figures/13.png>
-Package pdftex.def Info: ../Figures/13.png  used on input line 462.
+Package pdftex.def Info: ../Figures/13.png  used on input line 464.
 (pdftex.def)             Requested size: 44.50005pt x 50.59401pt.
 <../Figures/14.png, id=172, 613.54219pt x 361.35pt>
 File: ../Figures/14.png Graphic file (type png)
 <use ../Figures/14.png>
-Package pdftex.def Info: ../Figures/14.png  used on input line 462.
+Package pdftex.def Info: ../Figures/14.png  used on input line 464.
 (pdftex.def)             Requested size: 44.50005pt x 50.70567pt.
 <../Figures/15.png, id=174, 613.54219pt x 361.35pt>
 File: ../Figures/15.png Graphic file (type png)
 <use ../Figures/15.png>
-Package pdftex.def Info: ../Figures/15.png  used on input line 462.
+Package pdftex.def Info: ../Figures/15.png  used on input line 464.
 (pdftex.def)             Requested size: 44.50005pt x 50.67958pt.
 <../Figures/16.png, id=176, 613.54219pt x 361.35pt>
 File: ../Figures/16.png Graphic file (type png)
 <use ../Figures/16.png>
-Package pdftex.def Info: ../Figures/16.png  used on input line 462.
+Package pdftex.def Info: ../Figures/16.png  used on input line 464.
 (pdftex.def)             Requested size: 44.50005pt x 45.69832pt.
 <../Figures/17.png, id=178, 613.54219pt x 361.35pt>
 File: ../Figures/17.png Graphic file (type png)
 <use ../Figures/17.png>
-Package pdftex.def Info: ../Figures/17.png  used on input line 462.
+Package pdftex.def Info: ../Figures/17.png  used on input line 464.
 (pdftex.def)             Requested size: 44.50005pt x 45.30075pt.
 <../Figures/18.png, id=180, 613.54219pt x 361.35pt>
 File: ../Figures/18.png Graphic file (type png)
 <use ../Figures/18.png>
-Package pdftex.def Info: ../Figures/18.png  used on input line 462.
+Package pdftex.def Info: ../Figures/18.png  used on input line 464.
 (pdftex.def)             Requested size: 44.50005pt x 33.53432pt.
 <../Figures/19.png, id=182, 613.54219pt x 361.35pt>
 File: ../Figures/19.png Graphic file (type png)
 <use ../Figures/19.png>
-Package pdftex.def Info: ../Figures/19.png  used on input line 462.
+Package pdftex.def Info: ../Figures/19.png  used on input line 464.
 (pdftex.def)             Requested size: 44.50005pt x 33.22072pt.
 <../Figures/20.png, id=184, 613.54219pt x 361.35pt>
 File: ../Figures/20.png Graphic file (type png)
 <use ../Figures/20.png>
-Package pdftex.def Info: ../Figures/20.png  used on input line 462.
+Package pdftex.def Info: ../Figures/20.png  used on input line 464.
 (pdftex.def)             Requested size: 44.50005pt x 33.89873pt.
 <../Figures/21.png, id=186, 613.54219pt x 361.35pt>
 File: ../Figures/21.png Graphic file (type png)
 <use ../Figures/21.png>
-Package pdftex.def Info: ../Figures/21.png  used on input line 462.
+Package pdftex.def Info: ../Figures/21.png  used on input line 464.
 (pdftex.def)             Requested size: 44.50005pt x 33.53432pt.
 File: images/ceig.png Graphic file (type png)
 <use images/ceig.png>
-Package pdftex.def Info: images/ceig.png  used on input line 462.
+Package pdftex.def Info: images/ceig.png  used on input line 464.
 (pdftex.def)             Requested size: 89.0353pt x 22.76228pt.
 
-Overfull \vbox (5.43997pt too high) detected at line 462
+Overfull \vbox (5.43997pt too high) detected at line 464
  []
 
 [11
@@ -1637,51 +1637,51 @@ Figures/17.png> <../Figures/18.png> <../Figures/19.png> <../Figures/20.png> <..
 <../Figures/22.png, id=278, 613.54219pt x 361.35pt>
 File: ../Figures/22.png Graphic file (type png)
 <use ../Figures/22.png>
-Package pdftex.def Info: ../Figures/22.png  used on input line 516.
+Package pdftex.def Info: ../Figures/22.png  used on input line 518.
 (pdftex.def)             Requested size: 44.50005pt x 39.41754pt.
 <../Figures/23.png, id=280, 613.54219pt x 361.35pt>
 File: ../Figures/23.png Graphic file (type png)
 <use ../Figures/23.png>
-Package pdftex.def Info: ../Figures/23.png  used on input line 516.
+Package pdftex.def Info: ../Figures/23.png  used on input line 518.
 (pdftex.def)             Requested size: 44.50005pt x 31.86478pt.
 <../Figures/24.png, id=282, 613.54219pt x 361.35pt>
 File: ../Figures/24.png Graphic file (type png)
 <use ../Figures/24.png>
-Package pdftex.def Info: ../Figures/24.png  used on input line 516.
+Package pdftex.def Info: ../Figures/24.png  used on input line 518.
 (pdftex.def)             Requested size: 44.50005pt x 52.44775pt.
 <../Figures/25.png, id=284, 613.54219pt x 361.35pt>
 File: ../Figures/25.png Graphic file (type png)
 <use ../Figures/25.png>
-Package pdftex.def Info: ../Figures/25.png  used on input line 516.
+Package pdftex.def Info: ../Figures/25.png  used on input line 518.
 (pdftex.def)             Requested size: 44.50005pt x 53.58936pt.
 <../Figures/27.png, id=286, 613.54219pt x 361.35pt>
 File: ../Figures/27.png Graphic file (type png)
 <use ../Figures/27.png>
-Package pdftex.def Info: ../Figures/27.png  used on input line 516.
+Package pdftex.def Info: ../Figures/27.png  used on input line 518.
 (pdftex.def)             Requested size: 44.50005pt x 45.50137pt.
 <../Figures/28.png, id=288, 613.54219pt x 361.35pt>
 File: ../Figures/28.png Graphic file (type png)
 <use ../Figures/28.png>
-Package pdftex.def Info: ../Figures/28.png  used on input line 516.
+Package pdftex.def Info: ../Figures/28.png  used on input line 518.
 (pdftex.def)             Requested size: 44.50005pt x 46.2478pt.
 <../Figures/29.png, id=290, 613.54219pt x 361.35pt>
 File: ../Figures/29.png Graphic file (type png)
 <use ../Figures/29.png>
-Package pdftex.def Info: ../Figures/29.png  used on input line 516.
+Package pdftex.def Info: ../Figures/29.png  used on input line 518.
 (pdftex.def)             Requested size: 44.50005pt x 45.83012pt.
 <../Figures/30.png, id=292, 613.54219pt x 361.35pt>
 File: ../Figures/30.png Graphic file (type png)
 <use ../Figures/30.png>
-Package pdftex.def Info: ../Figures/30.png  used on input line 516.
+Package pdftex.def Info: ../Figures/30.png  used on input line 518.
 (pdftex.def)             Requested size: 44.50005pt x 45.69832pt.
 <../Figures/34.png, id=294, 613.54219pt x 361.35pt>
 File: ../Figures/34.png Graphic file (type png)
 <use ../Figures/34.png>
-Package pdftex.def Info: ../Figures/34.png  used on input line 516.
+Package pdftex.def Info: ../Figures/34.png  used on input line 518.
 (pdftex.def)             Requested size: 44.50005pt x 37.41396pt.
 File: images/ceig.png Graphic file (type png)
 <use images/ceig.png>
-Package pdftex.def Info: images/ceig.png  used on input line 516.
+Package pdftex.def Info: images/ceig.png  used on input line 518.
 (pdftex.def)             Requested size: 89.0353pt x 22.76228pt.
  [12
 
@@ -1690,10 +1690,10 @@ Package pdftex.def Info: images/ceig.png  used on input line 516.
 g> <../Figures/34.png>]
 File: images/ceig.png Graphic file (type png)
 <use images/ceig.png>
-Package pdftex.def Info: images/ceig.png  used on input line 557.
+Package pdftex.def Info: images/ceig.png  used on input line 559.
 (pdftex.def)             Requested size: 89.0353pt x 22.76228pt.
 
-Overfull \vbox (6.87724pt too high) detected at line 557
+Overfull \vbox (6.87724pt too high) detected at line 559
  []
 
 [13
@@ -1701,7 +1701,7 @@ Overfull \vbox (6.87724pt too high) detected at line 557
 ]
 File: images/ceig.png Graphic file (type png)
 <use images/ceig.png>
-Package pdftex.def Info: images/ceig.png  used on input line 585.
+Package pdftex.def Info: images/ceig.png  used on input line 587.
 (pdftex.def)             Requested size: 89.0353pt x 22.76228pt.
  [14
 
@@ -1709,68 +1709,68 @@ Package pdftex.def Info: images/ceig.png  used on input line 585.
 <images/distanceCalculusMod.jpg, id=355, 2341.74875pt x 1897.0875pt>
 File: images/distanceCalculusMod.jpg Graphic file (type jpg)
 <use images/distanceCalculusMod.jpg>
-Package pdftex.def Info: images/distanceCalculusMod.jpg  used on input line 599
+Package pdftex.def Info: images/distanceCalculusMod.jpg  used on input line 601
 .
 (pdftex.def)             Requested size: 273.83728pt x 221.8223pt.
 File: images/ceig.png Graphic file (type png)
 <use images/ceig.png>
-Package pdftex.def Info: images/ceig.png  used on input line 599.
+Package pdftex.def Info: images/ceig.png  used on input line 601.
 (pdftex.def)             Requested size: 89.0353pt x 22.76228pt.
  [15
 
  <./images/distanceCalculusMod.jpg>]
-Package pgfplots info on input line 643: Using 'lua backend=false' for axis: x 
+Package pgfplots info on input line 645: Using 'lua backend=false' for axis: x 
 coord trafo unsupported.
 PGFPlots: reading {Data/time_per_object.dat}
 PGFPlots: reading {Data/time_per_object.dat}
 File: images/ceig.png Graphic file (type png)
 <use images/ceig.png>
-Package pdftex.def Info: images/ceig.png  used on input line 643.
+Package pdftex.def Info: images/ceig.png  used on input line 645.
 (pdftex.def)             Requested size: 89.0353pt x 22.76228pt.
  [16
 
 ]
-Package pgfplots info on input line 685: Using 'lua backend=false' for axis: x 
+Package pgfplots info on input line 687: Using 'lua backend=false' for axis: x 
 coord trafo unsupported.
 PGFPlots: reading {Data/time_per_object_overall.dat}
 File: images/ceig.png Graphic file (type png)
 <use images/ceig.png>
-Package pdftex.def Info: images/ceig.png  used on input line 685.
+Package pdftex.def Info: images/ceig.png  used on input line 687.
 (pdftex.def)             Requested size: 89.0353pt x 22.76228pt.
  [17
 
 ]
-Package pgfplots info on input line 727: Using 'lua backend=false' for axis: x 
+Package pgfplots info on input line 729: Using 'lua backend=false' for axis: x 
 coord trafo unsupported.
 PGFPlots: reading {Data/accuracy_per_object.dat}
 PGFPlots: reading {Data/accuracy_per_object.dat}
 File: images/ceig.png Graphic file (type png)
 <use images/ceig.png>
-Package pdftex.def Info: images/ceig.png  used on input line 727.
+Package pdftex.def Info: images/ceig.png  used on input line 729.
 (pdftex.def)             Requested size: 89.0353pt x 22.76228pt.
  [18
 
 ]
-Package pgfplots info on input line 769: Using 'lua backend=false' for axis: x 
+Package pgfplots info on input line 771: Using 'lua backend=false' for axis: x 
 coord trafo unsupported.
 PGFPlots: reading {Data/time_per_object_overall.dat}
 File: images/ceig.png Graphic file (type png)
 <use images/ceig.png>
-Package pdftex.def Info: images/ceig.png  used on input line 769.
+Package pdftex.def Info: images/ceig.png  used on input line 771.
 (pdftex.def)             Requested size: 89.0353pt x 22.76228pt.
  [19
 
 ]
 File: images/ceig.png Graphic file (type png)
 <use images/ceig.png>
-Package pdftex.def Info: images/ceig.png  used on input line 784.
+Package pdftex.def Info: images/ceig.png  used on input line 786.
 (pdftex.def)             Requested size: 89.0353pt x 22.76228pt.
  [20
 
 ]
 File: images/ceig.png Graphic file (type png)
 <use images/ceig.png>
-Package pdftex.def Info: images/ceig.png  used on input line 796.
+Package pdftex.def Info: images/ceig.png  used on input line 798.
 (pdftex.def)             Requested size: 89.0353pt x 22.76228pt.
 
 [21
@@ -1778,14 +1778,14 @@ Package pdftex.def Info: images/ceig.png  used on input line 796.
 ]
 File: images/ceig.png Graphic file (type png)
 <use images/ceig.png>
-Package pdftex.def Info: images/ceig.png  used on input line 803.
+Package pdftex.def Info: images/ceig.png  used on input line 812.
 (pdftex.def)             Requested size: 89.0353pt x 22.76228pt.
  [22
 
 ]
 File: images/3dpl.png Graphic file (type png)
 <use images/3dpl.png>
-Package pdftex.def Info: images/3dpl.png  used on input line 808.
+Package pdftex.def Info: images/3dpl.png  used on input line 817.
 (pdftex.def)             Requested size: 100.56564pt x 19.91684pt.
  [23
 
@@ -1794,7 +1794,7 @@ Package pdftex.def Info: images/3dpl.png  used on input line 808.
  (isae-beamer-template.bbl)
 File: images/ceig.png Graphic file (type png)
 <use images/ceig.png>
-Package pdftex.def Info: images/ceig.png  used on input line 817.
+Package pdftex.def Info: images/ceig.png  used on input line 826.
 (pdftex.def)             Requested size: 89.0353pt x 22.76228pt.
  [24
 
@@ -1802,14 +1802,14 @@ Package pdftex.def Info: images/ceig.png  used on input line 817.
 article.pdf>]
 File: images/ceig.png Graphic file (type png)
 <use images/ceig.png>
-Package pdftex.def Info: images/ceig.png  used on input line 843.
+Package pdftex.def Info: images/ceig.png  used on input line 852.
 (pdftex.def)             Requested size: 89.0353pt x 22.76228pt.
  [25
 
 ]
 File: images/ceig.png Graphic file (type png)
 <use images/ceig.png>
-Package pdftex.def Info: images/ceig.png  used on input line 864.
+Package pdftex.def Info: images/ceig.png  used on input line 873.
 (pdftex.def)             Requested size: 89.0353pt x 22.76228pt.
  [26
 
@@ -1823,19 +1823,19 @@ Package pdftex.def Info: images/ceig.png  used on input line 864.
 \tf@snm=\write8
 \openout8 = `isae-beamer-template.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 866.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 866.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 875.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 875.
 
 (isae-beamer-template.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 866.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 866.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 875.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 875.
 Package rerunfilecheck Info: File `isae-beamer-template.out' has not changed.
 (rerunfilecheck)             Checksum: 949B106CAA27C1B58C8BEB2EAB27660B;360.
  ) 
 Here is how much of TeX's memory you used:
  36632 strings out of 492895
  892048 string characters out of 3123268
- 1127091 words of memory out of 3000000
+ 1127092 words of memory out of 3000000
  39630 multiletter control sequences out of 15000+200000
  35725 words of font info for 78 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -1850,7 +1850,7 @@ ata/Local/Programs/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvb8a.pfb><C:/Users/Ser
 giu/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvr8a.pfb><C:/U
 sers/Sergiu/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvro8a.
 pfb>
-Output written on isae-beamer-template.pdf (26 pages, 11724113 bytes).
+Output written on isae-beamer-template.pdf (26 pages, 11724621 bytes).
 PDF statistics:
  494 PDF objects out of 1000 (max. 8388607)
  132 named destinations out of 1000 (max. 500000)
